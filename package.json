@@ -13,6 +13,9 @@
     "@aws-sdk/client-s3": "^3.52.0",
     "aws-sdk": "^2.1077.0",
     "fs": "^0.0.1-security",
-    "path": "^0.12.7"
+    "image-size": "^1.0.1",
+    "path": "^0.12.7",
+    "process": "^0.11.10",
+    "sharp": "^0.30.1"
   }
 }

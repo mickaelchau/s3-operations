@@ -25,7 +25,7 @@ async function upload(directoryPath, filename) {
 }
 
 function main() {
-  const directoryPath = path.join(path.resolve());
+  const directoryPath = path.join(path.resolve(), "angela-pictures-v1");
   fs.readdir(directoryPath, function (err, files) {
       if (err) {
           return console.log('Unable to scan directory: ' + err);

@@ -1,0 +1,8 @@
+uploadFile.js:
+Upload all the jpeg files of 
+current directory in an s3 bucket
+
+cropImage.js:
+- Transform all images top jpeg
+- Crop all images of current repository to HeightxHeight
+=> Give good pictures if the picture is centered
